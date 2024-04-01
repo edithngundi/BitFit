@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitFit</string>
+    <string name="add_session">Add</string>
+    <string name="add_exercise">Add</string>
+    <string name="weight">weight</string>
+    <string name="reps">reps</string>
+    <string name="sets">sets</string>
+    <string name="notes">notes</string>
+    <string name="exercise">exercise</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="sets_name">Sets</string>
+    <string name="reps_name">Reps</string>
+    <string name="weight_name">Weight in kgs</string>
+    <string name="notes_name">Notes</string>
+</resources>
