@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/edithngundi/BitFit2/main/bitfit2.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/edithngundi/BitFit/main/bitfit2.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
