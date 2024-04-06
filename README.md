@@ -1,8 +1,8 @@
-# Android Project 6 - *BitFit2*
+# Android Project 6 - *BitFit*
 
 Submitted by: **Edith Ngundi**
 
-**BitFit2** is a health metrics app that allows users to track their workout sessions
+**BitFit** is a health metrics app that allows users to track their workout sessions
 
 Time spent: **10** hours spent in total
 
