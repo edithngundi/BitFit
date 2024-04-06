@@ -55,7 +55,7 @@ class SessionsAdapter(
         }
     }
 
-    fun updateSessionExercises(sessionIndex: Int) {
-        notifyItemChanged(sessionIndex)
+    fun updateSessionExercises(newSessions: List<ExerciseSession>) {
+        notifyDataSetChanged()
     }
 }

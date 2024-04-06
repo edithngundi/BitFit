@@ -1,43 +1,41 @@
-# Android Project 5 - *BitFit*
+# Android Project 6 - *BitFit2*
 
 Submitted by: **Edith Ngundi**
 
-**BitFit** is a health metrics app that allows users to track their workout sessions 
+**BitFit2** is a health metrics app that allows users to track their workout sessions
 
-Time spent: **13** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): Workout sessions
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [ ] **New entries are saved in a database and then updated in the RecyclerView**
-- [ ] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [x] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
+
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/edithngundi/BitFit/main/bitfit.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/edithngundi/BitFit2/main/bitfit2.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough' />
 
-GIF created with Kap (https://getkap.co/) for macOS
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
+
 Describe any challenges encountered while building the app.
-- Creating the whole database
-- Connecting the entries to the database and making it persistent when offline
+- Struggled connecting my entries with the view model
+- The data is not persistent
 
 ## License
 
